@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkargaikwad1995
 - 👀 I’m interested in Python language. 
 - 🌱 I’m currently learning Django Framework
-- 💞️ I’m love to travel exlore new places.
+- 💞️ I love to travel exlore new places.
 - 🖥️ You can checkout my websites which i have built.
 - link  https://coshifter.com/
 
