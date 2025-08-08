@@ -2,8 +2,8 @@
 - 👀 I’m interested in Python language. 
 - 🌱 I’m currently learning Django Framework
 - 💞️ I love to travel exlore new places.
-- 🖥️ You can checkout my websites which i have built.
-- link  https://coshifter.com/
+- 🖥️ You can checkout my portfolio which i have built.
+- link  [https://omkar-portfolio-nine.vercel.app/](https://omkar-portfolio-nine.vercel.app/)
 
 <!---
 omkargaikwad1995/omkargaikwad1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
